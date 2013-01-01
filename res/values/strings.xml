@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tapper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="btn_two_player">Two Players</string>
+    <string name="btn_four_player">Four Players</string>
+    <string name="btn_instructions">Instructions</string>
+    <string name="btn_options">Options</string>
+    <string name="instructions">
+        When the green light appears tap the screen faster than your opponent to score points.
+        Be careful though - if you tap before the light appears, you will loose points.
+    </string>
+    <string name="options">Options</string>
+    
+</resources>
